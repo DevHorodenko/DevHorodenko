@@ -7,7 +7,7 @@
 - ⚡ I’m familiar with Agile methodologies (Scrum, Kanban), and have provided technical leadership by mentoring junior developers, reviewing code, and supporting continuous improvement processes.
 - ⚡ Curiosity: I pursue game development also as a passion, studying Unreal Engine 5, C++, and 3D modeling with Blender and Character Creator, through programs by EBAC and Tom Looman.
 
-## How to reach me:
+#### How to reach me:
 <div>
 <a href="https://www.linkedin.com/in/leonardo-horodenko" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
